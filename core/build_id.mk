@@ -18,8 +18,4 @@
 # (like "CRB01").  It must be a single word, and is
 # capitalized by convention.
 
-<<<<<<< HEAD
-BUILD_ID=RQ2A.210505.003
-=======
 BUILD_ID=RQ3A.210605.005
->>>>>>> 1a73891c6efa3a5c259cc571395e0807b8a1a323
